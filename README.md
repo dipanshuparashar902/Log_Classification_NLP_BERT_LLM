@@ -119,6 +119,22 @@ The application generates structured output with fields such as:
 - `classifier_used`
 - `status`
 
+##Snapshots
+<img width="1512" height="818" alt="lcs1" src="https://github.com/user-attachments/assets/22f9d578-0a8c-4f49-a376-cd0691211c1b" />
+
+<img width="1512" height="756" alt="lcs2" src="https://github.com/user-attachments/assets/1e1f1dd5-34a6-4bc9-be94-ae421f020529" />
+
+<img width="1512" height="535" alt="lcs3" src="https://github.com/user-attachments/assets/2e35a1ff-9c84-4718-ae96-26a0d9961f3b" />
+
+https://github.com/user-attachments/assets/2604a47a-87c6-4f44-8cb5-50496c633ac9
+
+
+
+
+
+
+
+
 ## Tech Stack
 
 - **Frontend / UI:** Streamlit
